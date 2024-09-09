@@ -2,6 +2,8 @@
 
 This bash script renames folders and files to match the lowercase and '_' naming convention. It's useful for standardizing file names, especially when working with systems that are case-sensitive or have specific naming requirements.
 
+Example: "Example Project 1" -> "example_project_1"
+
 ## Features
 - Converts all file and folder names to lowercase
 - Replaces spaces and hyphens with underscores
